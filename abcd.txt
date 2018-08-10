@@ -1,3 +1,12 @@
-hi git
+Uploading stuff to github:
 
+1. make changes within github folder
+2. terminal: cd gitkos
+3. git add -A
+4. git commit -m "message"
+5. git push
 
+Pulling repo from github:
+
+1. terminal: cd gitkos
+2. git pull origin master
