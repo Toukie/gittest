@@ -10,3 +10,9 @@ Pulling repo from github:
 
 1. terminal: cd gitkos
 2. git pull origin master
+
+Editing HTML stuff
+
+$ cd Desktop/KOSDOC/doc
+$ make clean
+$ make html
