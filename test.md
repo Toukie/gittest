@@ -2,5 +2,8 @@
 
 Blablablablablablablablablabla
 Blablablablablablablablablabla
-> Some code here.
-    
+``` Function SomeFunction {
+      if x > 1 {
+        print "x".
+      }
+    }
