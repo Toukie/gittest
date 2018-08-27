@@ -18,3 +18,5 @@ $ make clean
 $ make html
 
 https://imgur.com/a/0QPxz0Z
+
+git remote add origin https://github.com/Toukie/cuddly-funiculars.git
