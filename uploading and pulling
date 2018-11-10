@@ -1,6 +1,6 @@
 Uploading stuff to github:
 
-1. make changes within github folder
+1. make changes within github folder (gitkos)
 2. terminal: cd gitkos
 3. git add -A
 4. git commit -m "message"
